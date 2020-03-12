@@ -2,30 +2,28 @@
 
 ## Título de tu proyecto
 
-<!-- Agrega aquí el título tentativo de tu proyecto. -->
+Alfa Lima Víctor
 
 ### ¿Cuál es la necesidad o problema a resolver? 🚀
 
-<!-- Agrega aquí la necesidad o problemática que esperas resolver con tu proyecto y a qué sector
-     beneficiará. -->
+Identificar a aquellos usuarios que no compraron la ruta que buscaron para impactarlos con contenido personalizado sobre sus destinos de interés.
 
 ### ¿Cuál es la propuesta para resolver esa necesidad o problema? 💡
 
-<!-- Describe cómo planeas solucionar el problema. Ejemplo: Voy a consultar una base de datos del
-	 sector salud para predecir el número de compradores de un medicamento. Para ello pretendo 
-	 usar Python porque ... --->
+Personalizar el sitio web de acuerdo a la tendencia de búsqueda de cada usuario.
 
 ### ¿Cómo lo vas a hacer? 📋
 
 <!-- Añade aquí un checklist de tareas y el estado de tus avances, añade tus avances en otras
 	 carpetas y compartelos con el mundo en la sección de avances, no olvides actualizar esta lista
 	 constantemente para organizarte mejor.
+Procesar los datos de forma automática a nivel usuario
 
 	 También te sugerimos el uso de Trello. --->
 
-- [x] Elección de fuente de datos
-- [ ] Definición de la estructura del proyecto
-- [ ] Definición de la estructura de la base de datos
+- [x] Conexión de Jupyter con BigQuery
+- [ ] ETL de los datos
+- [ ] Análisis Exploratorio de Datos
 - [ ] Carga de datos
 
 Agrega más tareas a este *checklist*.
