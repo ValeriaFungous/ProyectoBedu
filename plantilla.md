@@ -14,19 +14,11 @@ Personalizar el sitio web de acuerdo a la tendencia de búsqueda de cada usuario
 
 ### ¿Cómo lo vas a hacer? 📋
 
-<!-- Añade aquí un checklist de tareas y el estado de tus avances, añade tus avances en otras
-	 carpetas y compartelos con el mundo en la sección de avances, no olvides actualizar esta lista
-	 constantemente para organizarte mejor.
-Procesar los datos de forma automática a nivel usuario
-
-	 También te sugerimos el uso de Trello. --->
-
 - [x] Conexión de Jupyter con BigQuery
-- [ ] ETL de los datos
-- [ ] Análisis Exploratorio de Datos
-- [ ] Carga de datos
+- [X] ETL de los datos
+- [X] Análisis Exploratorio de Datos
 
-Agrega más tareas a este *checklist*.
+
 
 ### Avances 📌
 
